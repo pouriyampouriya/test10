@@ -182,9 +182,8 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-
     <Compile Include="Controllers\NewBranchController.cs" />
-
+    <Compile Include="Controllers\NewTest2Controller.cs" />
     <Compile Include="Controllers\Test1Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -253,9 +252,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-
     <Folder Include="Views\NewBranch\" />
-
+    <Folder Include="Views\NewTest2\" />
     <Folder Include="Views\Test1\" />
   </ItemGroup>
   <ItemGroup>
